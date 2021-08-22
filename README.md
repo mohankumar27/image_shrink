@@ -1,6 +1,6 @@
 # Image Shrink
 
-Application built with [Electron.js](https://www.electronjs.org/) reduces the size of the image efficiently and also preserves the quality of the image.
+Desktop Application built with [Electron.js](https://www.electronjs.org/) reduces the size of the image efficiently and also preserves the quality of the image.
 
 Currently supports _jpeg_ and _png_ images.
 
